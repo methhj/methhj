@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">Backend Dev From Belarus</h3>
 
-- 📫 How to reach me **matveytarkan@gmail.com**
+- 📫 How to reach me **matveytarkan@gmail.com** or TG *@meejje*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
